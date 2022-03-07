@@ -1,6 +1,8 @@
 ---
 title:  "How GitHub uses ML to scale a rule-based system"
 date:   2022-03-06
+categories:
+    - blog
 tags: 
     - GitHub
 ---
