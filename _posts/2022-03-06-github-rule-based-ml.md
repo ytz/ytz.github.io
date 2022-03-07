@@ -5,6 +5,8 @@ categories:
     - blog
 tags: 
     - GitHub
+    - Code Scanning
+    - Security Vulnerabilities
 ---
 
 GitHub recently released a [blog post](https://github.blog/2022-02-17-leveraging-machine-learning-find-security-vulnerabilities/) on how they use machine learning to improve their existing code scanning capability, to alert developers to potential security vulnerabilities in their code. Essentially it is using a rule-based engine (CodeQL analysis engine) + ML to boost performance.
